@@ -1,5 +1,5 @@
 import React from 'react';
-const Footer=()=>{
+const Footer=( ) => {
     return(
         <div className="footer">
             <h3>E-comm Dashboard </h3>
